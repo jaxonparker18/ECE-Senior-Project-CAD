@@ -17,4 +17,4 @@ This repository contains the CAD designs for the **Robotic Fire Extinguishment S
 
 ---
 
-This repository serves as the companion to the RFES code repository, providing the physical design models to complement the system's software. For the full code and functionality of the RFES project, visit **ECE-Senior-Project**: [Link to Code Repository](https://github.com/jaxonparker18/ECE-Senior-Project).
+This repository serves as the companion to the RFES code repository, providing the physical design models to complement the system's software. For the full code and functionality of the RFES project, visit **ECE-Senior-Project**: [Link to Code Repository](https://github.com/jaxonparker18/ECE-Senior-Project)
